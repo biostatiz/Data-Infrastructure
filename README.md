@@ -1,2 +1,2 @@
 # Data-Infrastructure
-[Duke] Data Infrastructure: MySQL, MariaDB, and Python
+Data Infrastructure: MySQL, MariaDB, and Python
